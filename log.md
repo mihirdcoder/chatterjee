@@ -7,3 +7,4 @@ Day 1 (https://github.com/mihirdcoder/100DaysofMLCode/commit/4622291c27f3a30ee9d
 Day 2 (https://github.com/mihirdcoder/100DaysofMLCode/commit/973102a5f4f923f16c42f70088c26392d379569f):
     Attended a meetup of Machine Learning forundation pune on introduction to tensorflow. Coded a sample Convolutional Neural       Network (Conv2D) using tensorflow for MNIST dataset. Not pushing that code on repo now because I have not completely           understood it completely. When i will digest it completey I will push it here.
     From Andrew Trask's website coded and understood 2 layer and 3 layer simplest feed forward NN. Coded it using Numpy. Gained     more insights about backpropogation.
+    Also scraped few webpages for project I will be working on.
