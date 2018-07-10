@@ -8,3 +8,7 @@ Day 2 (https://github.com/mihirdcoder/100DaysofMLCode/commit/973102a5f4f923f16c4
     Attended a meetup of Machine Learning forundation pune on introduction to tensorflow. Coded a sample Convolutional Neural       Network (Conv2D) using tensorflow for MNIST dataset. Not pushing that code on repo now because I have not completely           understood it completely. When i will digest it completey I will push it here.
     From Andrew Trask's website coded and understood 2 layer and 3 layer simplest feed forward NN. Coded it using Numpy. Gained     more insights about backpropogation.
     Also scraped few webpages for project I will be working on.
+Day 3 and 4: (https://github.com/mihirdcoder/100DaysofMLCode/commit/dec0f0b1143b626a5acb2eeb16f25d9bb0f13c48)
+    Honestly I havent worked a lot. Been Lazy and I regert.
+    It is not like I havent studid for 1 hour, I probably given more than one hour but I was not that much productive.             Complited numpy problems from that website. Did few code of gradient descent havent posted here yet because not understood     clearly. Will post soon.
+    I am making note to myself that I will post everyday. And weekly I will be writing an article on my medium page.
