@@ -12,3 +12,4 @@ Day 3 and 4: (https://github.com/mihirdcoder/100DaysofMLCode/commit/dec0f0b1143b
     Honestly I havent worked a lot. Been Lazy and I regert.
     It is not like I havent studid for 1 hour, I probably given more than one hour but I was not that much productive.             Complited numpy problems from that website. Did few code of gradient descent havent posted here yet because not understood     clearly. Will post soon.
     I am making note to myself that I will post everyday. And weekly I will be writing an article on my medium page.
+Day 5-6 :(https://github.com/mihirdcoder/100DaysofMLCode/commit/d8c14bddc6dc21e9feace7006e4719643e85fae1) Commited all stuff            done completely. Lot of stuff is still incomplete. Went more deep into theory. SGD is becoming more complex have to            refer simple resorces. Till tomorrow at least basic mnist classifier has to be done. New task for next 3 days is                compliting 101 pandas problem.
