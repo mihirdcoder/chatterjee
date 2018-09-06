@@ -104,7 +104,7 @@ def error(bot, update, error):
 
 """Start the bot."""
 # Create the EventHandler and pass it your bot's token.
-updater = Updater("461897996:AAEqZghe7eH35a_j6hY2gDoYdss-cykm-jI")
+updater = Updater("*****************************************")
 
 # Get the dispatcher to register handlers
 dp = updater.dispatcher
