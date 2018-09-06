@@ -1,0 +1,2 @@
+ADAM Optimizer is used 
+.minimize() is substituted by apply_gradients (explicit calculations for gradients needed)
